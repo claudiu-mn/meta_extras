@@ -1,0 +1,17 @@
+name: meta_extras
+description: Extra meta features for Dart
+version: 1.0.0
+homepage: https://claudiu.mn
+publish_to: "none"
+
+environment:
+  sdk: ">=2.19.4 <3.0.0"
+
+dependencies:
+  analyzer: ^5.7.1
+  analyzer_plugin: ^0.11.2
+  meta: ^1.8.0
+  web_socket_channel: ^2.3.0
+
+dev_dependencies:
+  lints: ^2.0.1

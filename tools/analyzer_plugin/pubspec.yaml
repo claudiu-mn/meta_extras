@@ -1,0 +1,14 @@
+name: meta_extras_bootstrap
+description: Bootstrap package for meta_extras analyzer plugin
+version: 1.0.0
+homepage: https://claudiu.mn
+publish_to: "none"
+
+environment:
+  sdk: ">=2.19.4 <3.0.0"
+
+dependencies:
+  meta_extras:
+    git:
+      url: https://github.com/claudiu-mn/meta_extras.git
+      ref: 1.0.0
