@@ -5,7 +5,7 @@ homepage: https://claudiu.mn
 publish_to: "none"
 
 environment:
-  sdk: ">=2.19.4 <3.0.0"
+  sdk: ">=2.19.0 <3.0.0"
 
 dependencies:
   analyzer: ^5.7.1
